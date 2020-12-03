@@ -1,1 +1,1 @@
-# kor-en-translate
+# kor-eng_translate
