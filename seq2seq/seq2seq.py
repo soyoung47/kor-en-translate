@@ -14,6 +14,7 @@ from tensorflow.keras.models import Model, load_model
 
 # num_samples = 21200
 
+# GPU 사용 확인
 if tf.test.gpu_device_name():
     print('Default GPU Device: {}'.format(tf.test.gpu_device_name()))
 else:
@@ -62,6 +63,7 @@ def load_preprocessed_data():
 
     return encoder_input, decoder_input, decoder_target
 
+# 데이터 load
 sents_en_in, sents_kor_in, sents_kor_out = load_preprocessed_data()
 print(sents_en_in[:5])
 print(sents_kor_in[:5])
@@ -154,7 +156,7 @@ model.summary()
 
 model.fit(x = [encoder_input_train, decoder_input_train], y = decoder_target_train, \
           validation_data = ([encoder_input_test, decoder_input_test], decoder_target_test),
-          batch_size = 200, epochs = 10)
+          batch_size = 200, epochs = 50)
 
 # model.save('checkpoint_.h5')
 
@@ -238,7 +240,7 @@ def seq2tar(input_seq):
             temp = temp + index_to_tar[i] + ' '
     return temp
 
-for seq_index in [7, 11, 50, 100, 300, 1001]:
+for seq_index in [5, 11, 50, 120, 350, 1001]:
   input_seq = encoder_input_train[seq_index: seq_index + 1]
   decoded_sentence = decode_sequence(input_seq)
 
