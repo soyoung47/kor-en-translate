@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9b62ddb-4c67-40dc-8d60-ca6e7559478c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l8yxdFnWhamdwRpnF5Uz6fDjVl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/trans" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\soyoung\3. 코딩\kor-eng_translate\seq2seq" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="seq2seq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kor-eng_translate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seq2seq" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seq2seq/seq2seq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.seq2seq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9b62ddb-4c67-40dc-8d60-ca6e7559478c" name="Default Changelist" comment="" />
+      <created>1606993260644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606993260644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="702" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1607042186473">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="558" y="702" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607042186473" />
+    <state width="1342" height="466" key="DebuggerActiveHint" timestamp="1607072109564">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1607072109564" />
+    <state x="546" y="549" key="FileChooserDialogImpl" timestamp="1606994176182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="546" y="549" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606994176182" />
+    <state width="1365" height="337" key="GridCell.Tab.0.bottom" timestamp="1607081817422">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="337" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607081817422" />
+    <state width="1365" height="337" key="GridCell.Tab.0.center" timestamp="1607081817422">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="337" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607081817422" />
+    <state width="1365" height="337" key="GridCell.Tab.0.left" timestamp="1607081817421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="337" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607081817421" />
+    <state width="1365" height="337" key="GridCell.Tab.0.right" timestamp="1607081817422">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="337" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607081817422" />
+    <state width="1365" height="312" key="GridCell.Tab.1.bottom" timestamp="1607072236569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="312" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607072236569" />
+    <state width="1365" height="312" key="GridCell.Tab.1.center" timestamp="1607072236569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="312" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607072236569" />
+    <state width="1365" height="312" key="GridCell.Tab.1.left" timestamp="1607072236569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="312" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607072236569" />
+    <state width="1365" height="312" key="GridCell.Tab.1.right" timestamp="1607072236569">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1365" height="312" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607072236569" />
+    <state x="248" y="352" key="SettingsEditor" timestamp="1607047121479">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="248" y="352" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607047121479" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/seq2seq/seq2seq.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/seq2seq/seq2seq.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
